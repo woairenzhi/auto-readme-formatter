@@ -62,3 +62,9 @@ MIT
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-pink?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/woairenzhi)
 
 Support this project by becoming a sponsor!
+
+## 💖 Support
+
+If you find this Action useful, consider buying me a coffee:
+
+[![PayPal](https://img.shields.io/badge/PayPal-blue?logo=paypal&logoColor=white)](https://paypal.me/rzhi311)
